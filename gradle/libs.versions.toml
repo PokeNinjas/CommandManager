@@ -10,7 +10,7 @@ loom = { id = "fabric-loom", version = "1.5.5" }
 [libraries]
 
 # Minecraft
-minecraft_v20 = { module = "com.mojang:minecraft", version = "1.20.1" }
+minecraft_v21 = { module = "com.mojang:minecraft", version = "1.20.1" }
 
 # Fabric
 fabric_api = { module = "net.fabricmc.fabric-api:fabric-api", version = "0.90.7+1.20.3" }

@@ -1,14 +1,14 @@
 package com.voinearadu.commandmanager.velocity.manager;
 
-import com.voinearadu.commandmanager.common.command.CommonCommand;
-import com.voinearadu.commandmanager.common.manager.CommonCommandManager;
-import com.voinearadu.commandmanager.velocity.command.VelocityCommand;
-import com.voinearadu.reflections.Reflections;
 import com.velocitypowered.api.command.CommandMeta;
 import com.velocitypowered.api.command.CommandSource;
 import com.velocitypowered.api.proxy.ConsoleCommandSource;
 import com.velocitypowered.api.proxy.Player;
 import com.velocitypowered.api.proxy.ProxyServer;
+import com.voinearadu.commandmanager.common.command.CommonCommand;
+import com.voinearadu.commandmanager.common.manager.CommonCommandManager;
+import com.voinearadu.commandmanager.velocity.command.VelocityCommand;
+import com.voinearadu.reflections.Reflections;
 import lombok.Getter;
 import org.jetbrains.annotations.NotNull;
 
